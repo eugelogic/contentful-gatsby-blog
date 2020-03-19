@@ -15,8 +15,8 @@
     "gatsby-transformer-remark": "2.6.48",
     "gh-pages": "2.2.0",
     "lodash": "4.17.15",
-    "react": "16.12.0",
-    "react-dom": "16.12.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
     "react-helmet": "5.2.1"
   },
   "homepage": "https://github.com/contentful/starter-gatsby-blog#readme",
